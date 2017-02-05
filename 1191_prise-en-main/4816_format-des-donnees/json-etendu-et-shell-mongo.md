@@ -1,0 +1,5 @@
+MongoDB stocke les documents au format BSON, mais pour un humain (normal), c'est plus simple d'utiliser JSON, qui est beaucoup plus lisible. Le shell mongo, qui est un logiciel qu'on peut utiliser pour communiquer directement avec le serveur, permet donc d'utiliser une forme étendue de JSON, permettant de représenter certains types qui n'existent que dans la norme BSON (dates, données binaires, ObjectId, ...).
+
+Par ailleurs, rappelons que le shell mongo est également un interpréteur Javascript. A ce titre, il permet d'utiliser la notation des objets littéraux de javascript. Cette notation a inspiré la norme *JSON*, mais est plus souple. Par exemple, on peut omettre les guillemets autour des clés qui ne contiennent ni caractères spéciaux, ni espaces et qui commencent par une lettre (ou *_*).
+
+C'est cette notation-là que nous utiliserons tout au long du cours.

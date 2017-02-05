@@ -1,0 +1,1 @@
+Ce dernier chapitre couvrira les méthodes permettant de trier et limiter les résultats d'une requête de sélection. Avant cela, nous allons définir la notion de curseurs. Nous finirons ensuite avec quelques méthodes indispensables à connaître.

@@ -1,0 +1,265 @@
+{
+    "object": "container", 
+    "slug": "mongodb-1", 
+    "title": "MongoDB", 
+    "introduction": "introduction.md", 
+    "conclusion": "conclusion.md", 
+    "children": [
+        {
+            "object": "container", 
+            "slug": "1191_prise-en-main", 
+            "title": "Prise en main", 
+            "introduction": "1191_prise-en-main/introduction.md", 
+            "conclusion": "1191_prise-en-main/conclusion.md", 
+            "children": [
+                {
+                    "object": "container", 
+                    "slug": "4784_nosql", 
+                    "title": "NoSQL", 
+                    "introduction": "1191_prise-en-main/4784_nosql/introduction.md", 
+                    "conclusion": "1191_prise-en-main/4784_nosql/conclusion.md", 
+                    "children": [
+                        {
+                            "object": "extract", 
+                            "slug": "14007_les-causes", 
+                            "title": "Les causes", 
+                            "text": "1191_prise-en-main/4784_nosql/14007_les-causes.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14008_ainsi-naquit-nosql", 
+                            "title": "Ainsi naquit NoSQL", 
+                            "text": "1191_prise-en-main/4784_nosql/14008_ainsi-naquit-nosql.md"
+                        }
+                    ]
+                }, 
+                {
+                    "object": "container", 
+                    "slug": "4815_presentation-de-mongodb", 
+                    "title": "Présentation de MongoDB", 
+                    "introduction": "1191_prise-en-main/4815_presentation-de-mongodb/introduction.md", 
+                    "conclusion": "1191_prise-en-main/4815_presentation-de-mongodb/conclusion.md", 
+                    "children": [
+                        {
+                            "object": "extract", 
+                            "slug": "14011_fonctionnalites-principales", 
+                            "title": "Fonctionnalités principales", 
+                            "text": "1191_prise-en-main/4815_presentation-de-mongodb/14011_fonctionnalites-principales.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14012_fonctionnalites-absentes-ou-restreintes", 
+                            "title": "Fonctionnalités absentes ou restreintes", 
+                            "text": "1191_prise-en-main/4815_presentation-de-mongodb/14012_fonctionnalites-absentes-ou-restreintes.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14503_modele-client-serveur", 
+                            "title": "Modèle client - serveur", 
+                            "text": "1191_prise-en-main/4815_presentation-de-mongodb/14503_modele-client-serveur.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14504_installation-et-demarrage", 
+                            "title": "Installation et démarrage", 
+                            "text": "1191_prise-en-main/4815_presentation-de-mongodb/14504_installation-et-demarrage.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14505_presentation-du-shell-mongo", 
+                            "title": "Présentation du shell Mongo", 
+                            "text": "1191_prise-en-main/4815_presentation-de-mongodb/14505_presentation-du-shell-mongo.md"
+                        }
+                    ]
+                }, 
+                {
+                    "object": "container", 
+                    "slug": "4816_format-des-donnees", 
+                    "title": "Format des données", 
+                    "introduction": "1191_prise-en-main/4816_format-des-donnees/introduction.md", 
+                    "conclusion": "1191_prise-en-main/4816_format-des-donnees/conclusion.md", 
+                    "children": [
+                        {
+                            "object": "extract", 
+                            "slug": "14013_json", 
+                            "title": "JSON", 
+                            "text": "1191_prise-en-main/4816_format-des-donnees/14013_json.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14014_bson", 
+                            "title": "BSON", 
+                            "text": "1191_prise-en-main/4816_format-des-donnees/14014_bson.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "json-etendu-et-shell-mongo", 
+                            "title": "JSON étendu et shell mongo", 
+                            "text": "1191_prise-en-main/4816_format-des-donnees/json-etendu-et-shell-mongo.md"
+                        }
+                    ]
+                }, 
+                {
+                    "object": "container", 
+                    "slug": "4818_operation-du-crud", 
+                    "title": "Opération du CRUD", 
+                    "introduction": "1191_prise-en-main/4818_operation-du-crud/introduction.md", 
+                    "conclusion": "1191_prise-en-main/4818_operation-du-crud/conclusion.md", 
+                    "children": [
+                        {
+                            "object": "extract", 
+                            "slug": "14021_creation-et-sauvegarde-dun-document", 
+                            "title": "Création et sauvegarde d'un document", 
+                            "text": "1191_prise-en-main/4818_operation-du-crud/14021_creation-et-sauvegarde-dun-document.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14022_identifiant", 
+                            "title": "Identifiant", 
+                            "text": "1191_prise-en-main/4818_operation-du-crud/14022_identifiant.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14023_selection-de-documents", 
+                            "title": "Sélection de documents", 
+                            "text": "1191_prise-en-main/4818_operation-du-crud/14023_selection-de-documents.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14024_suppression-de-documents", 
+                            "title": "Suppression de documents", 
+                            "text": "1191_prise-en-main/4818_operation-du-crud/14024_suppression-de-documents.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14025_modification-de-documents", 
+                            "title": "Modification de documents", 
+                            "text": "1191_prise-en-main/4818_operation-du-crud/14025_modification-de-documents.md"
+                        }
+                    ]
+                }, 
+                {
+                    "object": "container", 
+                    "slug": "4819_selection-complexe", 
+                    "title": "Selection complexe", 
+                    "introduction": "1191_prise-en-main/4819_selection-complexe/introduction.md", 
+                    "conclusion": "1191_prise-en-main/4819_selection-complexe/conclusion.md", 
+                    "children": [
+                        {
+                            "object": "extract", 
+                            "slug": "14026_jeu-de-donnees", 
+                            "title": "Jeu de données", 
+                            "text": "1191_prise-en-main/4819_selection-complexe/14026_jeu-de-donnees.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14216_arrays-et-documents-imbriques", 
+                            "title": "Arrays et documents imbriqués", 
+                            "text": "1191_prise-en-main/4819_selection-complexe/14216_arrays-et-documents-imbriques.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14027_projection", 
+                            "title": "Projection", 
+                            "text": "1191_prise-en-main/4819_selection-complexe/14027_projection.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14028_operateurs-de-comparaison", 
+                            "title": "Opérateurs de comparaison", 
+                            "text": "1191_prise-en-main/4819_selection-complexe/14028_operateurs-de-comparaison.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14029_operateurs-logiques", 
+                            "title": "Opérateurs logiques", 
+                            "text": "1191_prise-en-main/4819_selection-complexe/14029_operateurs-logiques.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14600_operateurs-utiles-pour-les-arrays", 
+                            "title": "Opérateurs utiles pour les arrays", 
+                            "text": "1191_prise-en-main/4819_selection-complexe/14600_operateurs-utiles-pour-les-arrays.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14030_autres-operateurs-et-criteres", 
+                            "title": "Autres opérateurs et critères", 
+                            "text": "1191_prise-en-main/4819_selection-complexe/14030_autres-operateurs-et-criteres.md"
+                        }
+                    ]
+                }, 
+                {
+                    "object": "container", 
+                    "slug": "4820_retour-sur-la-modification", 
+                    "title": "Retour sur la modification", 
+                    "introduction": "1191_prise-en-main/4820_retour-sur-la-modification/introduction.md", 
+                    "conclusion": "1191_prise-en-main/4820_retour-sur-la-modification/conclusion.md", 
+                    "children": [
+                        {
+                            "object": "extract", 
+                            "slug": "14095_operateurs-de-modification-de-base", 
+                            "title": "Opérateurs de modification de base", 
+                            "text": "1191_prise-en-main/4820_retour-sur-la-modification/14095_operateurs-de-modification-de-base.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14096_modifier-plusieurs-documents", 
+                            "title": "Modifier plusieurs documents", 
+                            "text": "1191_prise-en-main/4820_retour-sur-la-modification/14096_modifier-plusieurs-documents.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14097_operateurs-de-modification-darray", 
+                            "title": "Opérateurs de modification d'array", 
+                            "text": "1191_prise-en-main/4820_retour-sur-la-modification/14097_operateurs-de-modification-darray.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14098_initialisation-a-lupsertion", 
+                            "title": "Initialisation à l'upsertion", 
+                            "text": "1191_prise-en-main/4820_retour-sur-la-modification/14098_initialisation-a-lupsertion.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14099_recuperer-et-modifier-un-document-en-une-operation", 
+                            "title": "Récupérer et modifier un document en une opération", 
+                            "text": "1191_prise-en-main/4820_retour-sur-la-modification/14099_recuperer-et-modifier-un-document-en-une-operation.md"
+                        }
+                    ]
+                }, 
+                {
+                    "object": "container", 
+                    "slug": "4864_tri-limites-et-methodes-utiles", 
+                    "title": "Tri, limites et méthodes utiles", 
+                    "introduction": "1191_prise-en-main/4864_tri-limites-et-methodes-utiles/introduction.md", 
+                    "conclusion": "1191_prise-en-main/4864_tri-limites-et-methodes-utiles/conclusion.md", 
+                    "children": [
+                        {
+                            "object": "extract", 
+                            "slug": "14100_curseurs", 
+                            "title": "Curseurs", 
+                            "text": "1191_prise-en-main/4864_tri-limites-et-methodes-utiles/14100_curseurs.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14101_tri-et-limites", 
+                            "title": "Tri et limites", 
+                            "text": "1191_prise-en-main/4864_tri-limites-et-methodes-utiles/14101_tri-et-limites.md"
+                        }, 
+                        {
+                            "object": "extract", 
+                            "slug": "14102_cadeau-bonus-deux-methodes-bien-utiles", 
+                            "title": "Cadeau bonus : deux méthodes bien utiles", 
+                            "text": "1191_prise-en-main/4864_tri-limites-et-methodes-utiles/14102_cadeau-bonus-deux-methodes-bien-utiles.md"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "version": 2, 
+    "description": "Découvrez les bases de données orientées documents avec MongoDB", 
+    "type": "TUTORIAL", 
+    "licence": "CC BY"
+}

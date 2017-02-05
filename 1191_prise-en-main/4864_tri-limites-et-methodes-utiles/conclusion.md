@@ -1,0 +1,1 @@
+Voilà qui clôture ce chapitre, et cette première partie. Vous êtes désormais capable de créer une base de données, et d'y faire les opérations de base.
